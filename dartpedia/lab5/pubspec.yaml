@@ -1,0 +1,17 @@
+name: lab5
+description: Lab work 5 - OOP CLI framework
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+publish_to: none
+
+environment:
+  sdk: ^3.11.3
+
+# Add regular dependencies here.
+dependencies:
+ command_runner:
+    path: ./command_runner 
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
