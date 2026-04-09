@@ -1,0 +1,10 @@
+{
+  "query": {
+    "pages": {
+      "12345": {
+        "title": "Cat",
+        "extract": "The cat (Felis catus) is a domestic species of small carnivorous mammal."
+      }
+    }
+  }
+}
